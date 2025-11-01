@@ -21,3 +21,9 @@ Railway + Next.js + Supabase
 # Install the documentation for Next.js via Context7. When this is done update the readme.md to note where it is installed, how to read it, and any key points.
 # As you add new core technology ensure the readme.md is updated with a current tech stack.
 ```
+
+Cloudflare Pages
+```
+# Prepare this application for deployment to CloudFlare pages.
+# Ensure that localStorage is persistent between browser sessions and page refresh. If there is difficulty fall back to JSON files for storage. Unless instructed to use Supabase. Then update the readme to documentation this.
+```
